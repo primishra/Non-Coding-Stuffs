@@ -6,6 +6,10 @@
 
 - Google drive link to the class notes - [https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing](https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing)
 
+## Differntial Geometry & Reimann Geometry
+
+- Google drive link to the class notes - [https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing](https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing)
+
 
 
 
