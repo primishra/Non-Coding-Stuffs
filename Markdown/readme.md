@@ -2,4 +2,5 @@
 * The Complete Guide To Markdown - [https://dev.to/noureldineadel65/the-complete-guide-to-markdown-4ejh](https://dev.to/noureldineadel65/the-complete-guide-to-markdown-4ejh)
 * GitHub Flavored Markdown Spec - [https://github.github.com/gfm/](https://github.github.com/gfm/)
 * Writing Mathematic Fomulars in Markdown - [https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
-* 
+* Mathematical expressions - [http://rreece.github.io/sw/markdown-memo/05-math.html](http://rreece.github.io/sw/markdown-memo/05-math.html)
+* Rendering Mathematics Equations (MathTex, MML, Latex) - [https://markdownmonster.west-wind.com/docs/_59l0mv2uw.htm](https://markdownmonster.west-wind.com/docs/_59l0mv2uw.htm)
