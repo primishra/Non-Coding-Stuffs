@@ -14,6 +14,14 @@
 
 - [https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing](https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing)
 
+## Reinforcement Learning (IIT Kgp) Notes
+
+- [https://drive.google.com/drive/folders/1V-ecq9DW8t1AowntY907sHkYE-BwxxMN?usp=sharing](https://drive.google.com/drive/folders/1V-ecq9DW8t1AowntY907sHkYE-BwxxMN?usp=sharing)
+
+## Deep Learning (IIT Kgp) Notes
+
+- [https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing](https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing)
+
 
 
 #### To be added :
