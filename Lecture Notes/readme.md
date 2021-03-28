@@ -22,6 +22,9 @@
 
 - [https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing](https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing)
 
+## Machine Learning (IIT Kgp) Notes
+
+- [https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing](https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing)
 
 
 #### To be added :
