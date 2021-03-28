@@ -1,6 +1,9 @@
 # Advanced Probability Theory (NPTEL)
 
-
+---
+- NPTEL Videos Link - [https://nptel.ac.in/courses/111/102/111102134/](https://nptel.ac.in/courses/111/102/111102134/)
+- YouTube PlayList - [https://www.youtube.com/playlist?list=PLp6ek2hDcoNCTpDkxSTGmxruyPnS13F4s](https://www.youtube.com/playlist?list=PLp6ek2hDcoNCTpDkxSTGmxruyPnS13F4s)
+---
 ### Week 1 (Lec - 1, 2, 3) 
 Introduction, Sample Space, Probability Axioms, Theorems on Union and Intersections of events in a
 Sample Spaces. Bertrand’s Paradox.
