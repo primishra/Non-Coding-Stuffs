@@ -1,1 +1,1 @@
-
+### MIT 18.650 Statistics for Applications, Fall 2016 - [https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
