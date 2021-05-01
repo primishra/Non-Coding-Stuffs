@@ -1,3 +1,19 @@
+## Classical Mechanics & Hydro Mechanics
+
+- [https://drive.google.com/drive/folders/1qOJ-xbGY98x0NgOZJ8GAN-oYyqI-7A-b?usp=sharing](https://drive.google.com/drive/folders/1qOJ-xbGY98x0NgOZJ8GAN-oYyqI-7A-b?usp=sharing)
+
+## Deep Learning (IIT Kgp) Notes
+
+- [https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing](https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing)
+
+## Differntial Geometry & Reimann Geometry
+
+- [https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing](https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing)
+
+## Machine Learning (IIT Kgp) Notes
+
+- [https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing](https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing)
+
 ## Number Theory
 
 - [https://drive.google.com/drive/folders/1KCAF939g8yqcGbeFVVQXM6JTf7hR1jlE?usp=sharing](https://drive.google.com/drive/folders/1KCAF939g8yqcGbeFVVQXM6JTf7hR1jlE?usp=sharing)
@@ -6,25 +22,18 @@
 
 - [https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing](https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing)
 
-## Differntial Geometry & Reimann Geometry
+## Operations Research
 
-- [https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing](https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing)
-
-## Statistical Inference (IIT Bombay) Notes
-
-- [https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing](https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing)
+- [https://drive.google.com/drive/folders/1Vh0oKKbZov1kHwpiGSo50VVSmfpZOgBh?usp=sharing](https://drive.google.com/drive/folders/1Vh0oKKbZov1kHwpiGSo50VVSmfpZOgBh?usp=sharing)
 
 ## Reinforcement Learning (IIT Kgp) Notes
 
 - [https://drive.google.com/drive/folders/1V-ecq9DW8t1AowntY907sHkYE-BwxxMN?usp=sharing](https://drive.google.com/drive/folders/1V-ecq9DW8t1AowntY907sHkYE-BwxxMN?usp=sharing)
 
-## Deep Learning (IIT Kgp) Notes
+## Statistical Inference (IIT Bombay) Notes
 
-- [https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing](https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing)
+- [https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing](https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing)
 
-## Machine Learning (IIT Kgp) Notes
-
-- [https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing](https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing)
 
 
 #### To be added :
@@ -35,6 +44,3 @@
 * DACA
 * NM
 * P&S
-* OR
-* CMHM
-* CNS
