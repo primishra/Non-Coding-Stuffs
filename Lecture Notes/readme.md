@@ -18,13 +18,13 @@
 
 - [https://drive.google.com/drive/folders/1KCAF939g8yqcGbeFVVQXM6JTf7hR1jlE?usp=sharing](https://drive.google.com/drive/folders/1KCAF939g8yqcGbeFVVQXM6JTf7hR1jlE?usp=sharing)
 
-## Ordinary Differential Equations with Special Functions
-
-- [https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing](https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing)
-
 ## Operations Research
 
 - [https://drive.google.com/drive/folders/1Vh0oKKbZov1kHwpiGSo50VVSmfpZOgBh?usp=sharing](https://drive.google.com/drive/folders/1Vh0oKKbZov1kHwpiGSo50VVSmfpZOgBh?usp=sharing)
+
+## Ordinary Differential Equations with Special Functions
+
+- [https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing](https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing)
 
 ## Reinforcement Learning (IIT Kgp) Notes
 
