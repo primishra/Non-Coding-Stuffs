@@ -30,13 +30,14 @@
 
 - [https://drive.google.com/drive/folders/1V-ecq9DW8t1AowntY907sHkYE-BwxxMN?usp=sharing](https://drive.google.com/drive/folders/1V-ecq9DW8t1AowntY907sHkYE-BwxxMN?usp=sharing)
 
+## Statistical Inference (BIT Mesra) Notes
+
+- [https://drive.google.com/drive/folders/1QHdbfJmdAd7srednWdTVJLoVmLTUxdMX?usp=sharing](https://drive.google.com/drive/folders/1QHdbfJmdAd7srednWdTVJLoVmLTUxdMX?usp=sharing)
+
 ## Statistical Inference (IIT Bombay) Notes
 
 - [https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing](https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing)
 
-## Statistical Inference (BIT Mesra) Notes
-
-- [https://drive.google.com/drive/folders/1QHdbfJmdAd7srednWdTVJLoVmLTUxdMX?usp=sharing](https://drive.google.com/drive/folders/1QHdbfJmdAd7srednWdTVJLoVmLTUxdMX?usp=sharing)
 
 #### To be added :
 * M1
