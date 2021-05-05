@@ -10,6 +10,14 @@
 
 - [https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing](https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing)
 
+## Discrete Mathematics
+
+- [https://drive.google.com/drive/folders/1U7bm4wMhrVdT6S6MM3ULRCNU9xsRpgl1?usp=sharing](https://drive.google.com/drive/folders/1U7bm4wMhrVdT6S6MM3ULRCNU9xsRpgl1?usp=sharing)
+
+## Integral Transforms and Integral Equations
+
+- [https://drive.google.com/drive/folders/1MzGYYlofZ88mfznikv5LIP2zP6iKiIA4?usp=sharing](https://drive.google.com/drive/folders/1MzGYYlofZ88mfznikv5LIP2zP6iKiIA4?usp=sharing)
+
 ## Machine Learning (IIT Kgp) Notes
 
 - [https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing](https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing)
