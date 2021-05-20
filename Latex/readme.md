@@ -32,3 +32,4 @@
 * Using LATEX to Write a PhD Thesis - [https://www.dickimaw-books.com/latex/thesis/thesis-screen.pdf](https://www.dickimaw-books.com/latex/thesis/thesis-screen.pdf)
 * Using LATEX for report writing - [https://www.southampton.ac.uk/~fangohr/computing/latex/latex_for_report_writing_HF.pdf](https://www.southampton.ac.uk/~fangohr/computing/latex/latex_for_report_writing_HF.pdf)
 * Latex Report Writing Tutorials Playlist - [https://www.youtube.com/playlist?list=PLNnwglGGYoTtW7o4PHFOSWGevcdFa3v3D](https://www.youtube.com/playlist?list=PLNnwglGGYoTtW7o4PHFOSWGevcdFa3v3D)
+* Thesis Sample - [https://drive.google.com/file/d/1kVzqbGaeBH5gG6MwppvALp7DdzbPTPiJ/view](https://drive.google.com/file/d/1kVzqbGaeBH5gG6MwppvALp7DdzbPTPiJ/view)
