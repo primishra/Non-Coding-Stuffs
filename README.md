@@ -1,2 +1,2 @@
-## Non Coding Stuffs
-- This repository contains lecture notes of some important topics. 
+## Notes & Tutorials
+- This repository contains lecture notes and tutorials of some important topics. 
