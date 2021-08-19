@@ -26,6 +26,10 @@
 
 - [https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing](https://drive.google.com/drive/folders/1LJaRAbKE5KpDJoEYPaPyXpwXZePV5UUF?usp=sharing)
 
+## Matrix Algebra and Complex Variables
+
+- [https://drive.google.com/drive/folders/1Zrm0MA6xVX5iu601Mi7DRFyVa3NnTwRm?usp=sharing](https://drive.google.com/drive/folders/1Zrm0MA6xVX5iu601Mi7DRFyVa3NnTwRm?usp=sharing)
+
 ## Number Theory
 
 - [https://drive.google.com/drive/folders/1KCAF939g8yqcGbeFVVQXM6JTf7hR1jlE?usp=sharing](https://drive.google.com/drive/folders/1KCAF939g8yqcGbeFVVQXM6JTf7hR1jlE?usp=sharing)
@@ -52,7 +56,6 @@
 
 
 #### To be added :
-* M2
 * M4
 * DM
 * DACA
