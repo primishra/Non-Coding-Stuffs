@@ -42,6 +42,9 @@
 
 - [https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing](https://drive.google.com/drive/folders/1eoFbEP-XkVVpeEnWIhcR2wtDrdNXSLLw?usp=sharing)
 
+## Probability & Statistics
+- [https://drive.google.com/drive/folders/1pzR4Q2aDo5MeHH70oQdvzv9YfOqPohDF?usp=sharing](https://drive.google.com/drive/folders/1pzR4Q2aDo5MeHH70oQdvzv9YfOqPohDF?usp=sharing)
+
 ## Reinforcement Learning (IIT Kgp) Notes
 
 - [https://drive.google.com/drive/folders/1V-ecq9DW8t1AowntY907sHkYE-BwxxMN?usp=sharing](https://drive.google.com/drive/folders/1V-ecq9DW8t1AowntY907sHkYE-BwxxMN?usp=sharing)
