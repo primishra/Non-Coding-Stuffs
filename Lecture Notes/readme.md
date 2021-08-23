@@ -34,6 +34,9 @@
 
 - [https://drive.google.com/drive/folders/1KCAF939g8yqcGbeFVVQXM6JTf7hR1jlE?usp=sharing](https://drive.google.com/drive/folders/1KCAF939g8yqcGbeFVVQXM6JTf7hR1jlE?usp=sharing)
 
+## Numerical Methods
+- [https://drive.google.com/drive/folders/1DVGNwIo5dds3fCf8QytuOt_RhcbR1aLI?usp=sharing](https://drive.google.com/drive/folders/1DVGNwIo5dds3fCf8QytuOt_RhcbR1aLI?usp=sharing)
+
 ## Operations Research
 
 - [https://drive.google.com/drive/folders/1Vh0oKKbZov1kHwpiGSo50VVSmfpZOgBh?usp=sharing](https://drive.google.com/drive/folders/1Vh0oKKbZov1kHwpiGSo50VVSmfpZOgBh?usp=sharing)
@@ -59,8 +62,5 @@
 
 
 #### To be added :
-* M4
 * DM
 * DACA
-* NM
-* P&S
