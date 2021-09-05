@@ -10,6 +10,10 @@
 
 - [https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing](https://drive.google.com/drive/folders/1Tm0XNBSSdbg0nOWnMAwMWChSepJyOVh2?usp=sharing)
 
+## Design and Analysis of Computer Algorithm
+
+- [https://drive.google.com/drive/folders/1NIQuT_cgyzipMwtZO94udxKec1gfJdbb?usp=sharing](https://drive.google.com/drive/folders/1NIQuT_cgyzipMwtZO94udxKec1gfJdbb?usp=sharing)
+
 ## Differntial Geometry & Reimann Geometry
 
 - [https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing](https://drive.google.com/drive/folders/1kwcbEjX6Jhacj6XbYfCTAYarOMUpF24o?usp=sharing)
@@ -29,6 +33,10 @@
 ## Matrix Algebra and Complex Variables
 
 - [https://drive.google.com/drive/folders/1Zrm0MA6xVX5iu601Mi7DRFyVa3NnTwRm?usp=sharing](https://drive.google.com/drive/folders/1Zrm0MA6xVX5iu601Mi7DRFyVa3NnTwRm?usp=sharing)
+
+## Modern and Linear Algebra
+
+- [https://drive.google.com/drive/folders/1Tjw-fFG8NoOYzNi4Rnv65b_bta6S87pN?usp=sharing](https://drive.google.com/drive/folders/1Tjw-fFG8NoOYzNi4Rnv65b_bta6S87pN?usp=sharing)
 
 ## Number Theory
 
@@ -60,7 +68,3 @@
 
 - [https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing](https://drive.google.com/drive/folders/1afCBCKbupqwFEsgs0bdlBukj58xte3kJ?usp=sharing)
 
-
-#### To be added :
-* DM
-* DACA
