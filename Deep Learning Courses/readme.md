@@ -1,0 +1,2 @@
+- [Fast AI Deep Learning](https://www.fast.ai/)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
